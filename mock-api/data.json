@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "email": "charan@gmail.com",
+      "username": "charan",
+      "password": "sricharan",
+      "id": 1
+    },
+    {
+      "email": "john@gmail.com",
+      "username": "john",
+      "password": "sricharan",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "username": "charan",
+      "text": "text",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/sbook-1e63f.appspot.com/o/images%2F1627415844444?alt=media&token=9737968a-90ef-470f-b624-b1483e1a4054",
+      "likes": [],
+      "comments": [],
+      "id": 1
+    },
+    {
+      "username": "charan",
+      "text": "Amazing sunset",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/sbook-1e63f.appspot.com/o/images%2F1627416352679?alt=media&token=f476cd07-8a34-4f97-bc49-faab90f1b318",
+      "likes": [],
+      "comments": [],
+      "id": 2
+    },
+    {
+      "username": "charan",
+      "text": "Hi guys, just testing!",
+      "imageURL": "",
+      "likes": [],
+      "comments": [
+        {
+          "username": "charan",
+          "comment": "testing"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "username": "charan",
+      "text": "Amazing waves!!!",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/sbook-1e63f.appspot.com/o/images%2F1627418634668?alt=media&token=569bf19f-dd3e-4c7f-a831-17ed4b08612a",
+      "likes": [],
+      "comments": [],
+      "id": 4
+    }
+  ]
+}
